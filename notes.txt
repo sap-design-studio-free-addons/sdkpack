@@ -1,0 +1,9 @@
+Call 26.11
+
+to prepare for next time...
+* build procedure - just show how we work / no preparation requried
+* repository structure - list which options we have (Karol)
+* check the naming of the github user and repository (today it is sap-design-studio-free-addons / sdkpack)
+** can this stay or is there a better name?
+* automation techniques / generation of the files
+** JS grunt - http://gruntjs.com/ (Mike to show)
